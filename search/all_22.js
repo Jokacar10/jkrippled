@@ -256,7 +256,7 @@ var searchData=
   ['_7eserverhandler_253',['~ServerHandler',['../classxrpl_1_1ServerHandler.html#aea34e923053853461a528d5c37a3cb35',1,'xrpl::ServerHandler']]],
   ['_7eserverimpl_254',['~ServerImpl',['../classxrpl_1_1ServerImpl.html#aafe88bb6582d253b66e896c6e1a4188a',1,'xrpl::ServerImpl']]],
   ['_7esession_255',['~Session',['../classxrpl_1_1Session.html#a9d0e4a53577450c4e6bd5334f4920a35',1,'xrpl::Session']]],
-  ['_7eset_256',['~set',['../classbeast_1_1PropertyStream_1_1Set.html#a48130b297aa75065d3d07cc4c6d696a2',1,'beast::PropertyStream::Set::~Set()'],['http://en.cppreference.com/w/cpp/container/set/~set.html',1,'std::pmr::set::~set()'],['http://en.cppreference.com/w/cpp/container/set/~set.html',1,'std::set::~set()']]],
+  ['_7eset_256',['~set',['http://en.cppreference.com/w/cpp/container/set/~set.html',1,'std::set::~set()'],['../classbeast_1_1PropertyStream_1_1Set.html#a48130b297aa75065d3d07cc4c6d696a2',1,'beast::PropertyStream::Set::~Set()'],['http://en.cppreference.com/w/cpp/container/set/~set.html',1,'std::pmr::set::~set()']]],
   ['_7eshamap_257',['~SHAMap',['../classxrpl_1_1SHAMap.html#a317e70b85486785675840956b03fa206',1,'xrpl::SHAMap']]],
   ['_7eshamapinnernode_258',['~SHAMapInnerNode',['../classxrpl_1_1SHAMapInnerNode.html#a5690f7e044645510c7f9d4e9285704e8',1,'xrpl::SHAMapInnerNode']]],
   ['_7eshamapstore_259',['~SHAMapStore',['../classxrpl_1_1SHAMapStore.html#a4fd657ceee9d8bd84c5b6ad6e735b083',1,'xrpl::SHAMapStore']]],
