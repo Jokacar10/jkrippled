@@ -25,6 +25,7 @@ env:
 
 jobs:
   releases-merged:
+    if: ${{ github.repository == 'XRPLF/rippled' }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
