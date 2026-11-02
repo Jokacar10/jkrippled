@@ -92,6 +92,7 @@ repos:
     hooks:
       - id: prettier
         args: [--end-of-line=auto]
+        language_version: 22.14.0
 
   # Scoped to package/: the rest of the repo's Python has pre-existing findings,
   # so widening these is its own change.
